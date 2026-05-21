@@ -42,19 +42,19 @@ where nothing is connected.)
 ### Switches
 
 - An ON-OFF-ON toggle switch, the MTS-303R is available from
-  (https://www.aliexpress.com/item/1005007484491572.html)[AliExpress]
+  [AliExpress](https://www.aliexpress.com/item/1005007484491572.html)
 - A 3PDT toggle switch, the TE Connectivity 2-1825139-3, is available
   from
-  (https://www.rapidonline.com/te-connectivity-2-1825139-3-toggle-switch-3pdt-on-off-on-pcb-mount-15-1926)[Rapid Electronics]
+  [Rapid Electronics](https://www.rapidonline.com/te-connectivity-2-1825139-3-toggle-switch-3pdt-on-off-on-pcb-mount-15-1926)
 - Alpha produce 4P3T rotary switches such as the SR2611-0403-38F5
   available from
-  (https://www.rapidonline.com/taiwan-alpha-sr2611-0403-38f5-make-before-break-rotary-switch-4-pole-3-way-79-0115)[Rapid
-  Electronics] or the SR2511F-0303-19R0B-E9-S-W-159 available from
-  (https://www.mouser.co.uk/ProductDetail/Alpha-Taiwan/SR2511F-0303-19R0B-E9-S-W-159?qs=8%252Br4Hz5Xir%2F8i45vdtZdhg%3D%3D)[Mouser]
+  [Rapid Electronics](https://www.rapidonline.com/taiwan-alpha-sr2611-0403-38f5-make-before-break-rotary-switch-4-pole-3-way-79-0115)
+  or the SR2511F-0303-19R0B-E9-S-W-159 available from
+  [Mouser](https://www.mouser.co.uk/ProductDetail/Alpha-Taiwan/SR2511F-0303-19R0B-E9-S-W-159?qs=8%252Br4Hz5Xir%2F8i45vdtZdhg%3D%3D)
 - Other choices include 4P3T switches from Alps Alpine
-  (https://uk.rs-online.com/web/p/rotary-switches/1239626)[RS,
-  SRRM433700] and various choices from Lorlin CK
-  (https://docs.rs-online.com/7602/A700000008016972.pdf)[See the datasheet]
+  [RS, SRRM433700](https://uk.rs-online.com/web/p/rotary-switches/1239626)
+  and various choices from Lorlin CK  
+  [See the datasheet](https://docs.rs-online.com/7602/A700000008016972.pdf)
 - A 4P3T rotary switch, the RS26, is also available from AliExpress
   https://www.aliexpress.com/item/1005008776212710.html
 - Various 3P3T wafer-style switches are also available and described
