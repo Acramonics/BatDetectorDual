@@ -1,0 +1,17 @@
+https://batdetector.freevar.com/
+
+Circuit Designator	Component Value	Purpose of Component
+R1, R2	Varies with transducer used	Sets gains of amplifier stages
+R3, R5	N/A	Amplifier stability components ( not used at this time )
+R4	220 ohms	Power supply isolation for first amplifier stage
+RV1	10K ohms	Volume setting potentiometer
+C1	.047 uf	Signal coupling between amplifier stages
+C2, C3	10 uf	Amplifier gain control components
+C4	470 uf	Main power supply filter
+C5, C8	N/A	Amplifier stability components ( not used at this time )
+C6	.022 uf	Couples transducer signal to input of first amplifier stage
+C7	220 uf	First amplifier power supply filter
+C9	.022 uf	Couples detector output to earphone
+IC1,IC2 LM386
+IC3     4024
+

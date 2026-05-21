@@ -1,0 +1,37 @@
+https://www.nutsvolts.com/magazine/article/june2011_berber
+
+
+Resistors	All 250 mW 5% axial carbon film. 
+R1	1M
+R2	1M
+R3	470R
+R4	1M
+R5	1M
+R6	1M
+R7	1K
+R8	62K
+R9	220K
+R10	220K
+R11	220K
+R12	1K
+R13	240R
+VR3	50K rotary potentiometer (see text)
+
+Capacitors	All polyester or ceramic except C5.
+C1	1 n 
+C2	100 n
+C3	1 n
+C4	470 p
+C5	47 µF 10V electrolytic 
+
+Active Components
+IC1	LM324 quad audio op-amp or similar (see text)
+
+Miscellaneous
+Mic	Piezo type (see text)
+SK1	3.5 mm stereo phone socket
+S1	SPST switch (see text)
+Battery	Two-off AA cells for 3V operation
+Battery Box	Double AA box to suit construction
+Project Case	Select according to construction needs
+Headphones	Dynamic in-ear or on-ear type, 300R approx.
