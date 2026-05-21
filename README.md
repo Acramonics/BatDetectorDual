@@ -108,7 +108,7 @@ Some of the values are dependent on the sensor/microphone used.
   detector is too noisy or oscillates.
 - L2 is in the range 10uH to 6.8mH
 
-**With other piezo/ceramic transducers
+**With other piezo/ceramic transducers**
 
 - L1/L2 are not used
 - R1 and RV1 adjusted as above
